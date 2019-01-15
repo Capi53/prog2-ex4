@@ -4,7 +4,7 @@ public class Main {
 
     }
 
-    public class MazeData {
+    public class initialsetting {
         public int width = 7;  // 迷路の横の大きさ
         public int height = 8;  // 迷路の縦の大きさ
     }
